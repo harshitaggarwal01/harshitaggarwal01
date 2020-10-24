@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on Emotion and Face Recognition as part of internship.
-- 🌱 I’m currently learning Django and Natural Language Processing.
+- 🔭 I’m currently working on NEAT application of flappy bird game.
+- 🌱 I’m currently learning Genetic Algorithms.
 - 👯 I’m looking to collaborate on Deep Learning Projects.
 - 🤔 I’m looking for help with Flutter.
 - 💬 Ask me about Python and its libraries.
