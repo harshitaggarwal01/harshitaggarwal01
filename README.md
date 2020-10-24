@@ -12,3 +12,5 @@
 - ⚡ Fun fact: It really doesn't matter how many courses you have done if you don't have a project for each one of them.
 
 
+
+[![Harshit Aggarwal's github stats](https://github-readme-stats.vercel.app/api?username=harshitaggarwal01)](https://github.com/anuraghazra/github-readme-stats)
