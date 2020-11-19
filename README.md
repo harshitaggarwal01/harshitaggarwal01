@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitaggarwal01&label=Profile%20views&color=0e75b6&style=flat" alt="harshitaggarwal01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitaggarwal01" alt="harshitaggarwal01" /></a> </p>
+
 
 - 🔭 I’m currently working on **NEAT application of flappy bird game.**
 
