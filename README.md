@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Deep Learning Projects.**
 
-- 🤝 I’m looking for help with **Flutter.**
+- 🤝 I’m looking for help with **GSOC.**
 
 - 👨‍💻 All of my projects are available at [https://harshitaggarwal01.github.io/](https://harshitaggarwal01.github.io/)
 
-- 💬 Ask me about **python, pytorch**
+- 💬 Ask me about **python,tensorflow**
 
 - 📫 How to reach me **harshitaggarwal5401@gmail.com**
 
