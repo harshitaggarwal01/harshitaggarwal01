@@ -23,8 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harshit-a-46b4a0b7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshit-a-46b4a0b7/" height="30" width="40" /></a>
-<a href="https://instagram.com/harshit.aggarwal__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="harshit.aggarwal__" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshit-a-46b4a0b7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshit-a-46b4a0b7/" height="30" width="40" />LinkedIn</a>&nbsp &nbsp &nbsp
+<a href="https://instagram.com/harshit.aggarwal__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="harshit.aggarwal__" height="30" width="40" />Instagram</a>&nbsp &nbsp &nbsp
+<a href="https://harshitaggarwal01.github.io/" target="blank"><img align="center" src="/dna-solid.svg" height="30" width="40"></img>Portfolio</a>
 </p>
 
 <!--h3 align="left">Languages and Tools:</h3>
