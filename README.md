@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm Harshit Aggarwal</h1>
 <h3 align="center">A passionate Deep Learning Researcher from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitaggarwal01&label=Profile%20views&color=0e75b6&style=flat" alt="harshitaggarwal01" /> </p>
-
 <!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitaggarwal01" alt="harshitaggarwal01" /></a> </p-->
 
+- 🔭 I’m currently working with **AdEase Startup.**
+
+- 🌱 I’m currently learning **ML-Ops.**
+
+- 👯 I’m looking to collaborate on **Deep Learning Projects.**
+
+- 👨‍💻 All of my projects are available at [https://harshitaggarwal01.github.io/](https://harshitaggarwal01.github.io/)
+
+- 💬 Ask me about **python,tensorflow**
+
 - 📫 How to reach me **harshitaggarwal5401@gmail.com**
+
+- ⚡ Fun fact **It really doesn't matter how many courses you have done if you don't have a project for each one of them.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
