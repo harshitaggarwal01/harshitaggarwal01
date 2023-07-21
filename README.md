@@ -5,17 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitaggarwal01&label=Profile%20views&color=0e75b6&style=flat" alt="harshitaggarwal01" /> </p>
 
-- 🔭 I’m currently working with **NimbleBox.ai**
-
-- 🌱 I’m currently learning **ML-Ops.**
-
-- 👯 I’m looking to collaborate on **Deep Learning Projects.**
-
-- 💬 Ask me about **python,tensorflow**
-
-- 📫 How to reach me **harshitaggarwal5401@gmail.com**
-
-- ⚡ Fun fact **It really doesn't matter how many courses you have done if you don't have a project for each one of them.**
+<p>Recently graduated with a B.Tech from SRM, I'm deeply passionate about AI, ML, and deep learning. 
+<p>As a former Software Developer Intern at Fidelity Investments, I contributed to real-world projects and honed my computer fundamentals. 
+<p>Leading the AI Lab at Next Tech Lab allowed me to mentor and guide peers while working on exciting projects. 
+<p>Equipped with strong programming skills in Python, Java, C++, TensorFlow, and Keras, I am well-versed in Full Stack Development and eager to embark on a new journey at Fidelity. 
+<p>Open to new challenges and opportunities, let's connect!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
