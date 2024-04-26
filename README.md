@@ -18,4 +18,4 @@
 <a href="https://instagram.com/harshit.aggarwal__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="harshit.aggarwal__" height="30" width="40" />Instagram</a>&nbsp &nbsp &nbsp
 <a href="https://harshitaggarwal01.github.io/" target="blank"><img align="center" src="/dna-solid.svg" height="30" width="40"></img>Portfolio</a>
 </p>
-<p>&nbsp;<img align="center" width=50% src="https://github-readme-stats.vercel.app/api?username=harshitaggarwal01&show_icons=true&locale=en&count_private=true" alt="harshitaggarwal01" /></p>
+<!-- <p>&nbsp;<img align="center" width=50% src="https://github-readme-stats.vercel.app/api?username=harshitaggarwal01&show_icons=true&locale=en&count_private=true" alt="harshitaggarwal01" /></p> -->
